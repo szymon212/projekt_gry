@@ -24,5 +24,6 @@ Jest umiarkowanie silny, inteligentny i wytrzymaly. Zaczyna grę z czarem szarż
 
 ### Mnich
 
+Jest słaby, ale szybki i inteligentny, rozpoczyna rozgrywkę z czarem leczenia ran, a jego bronia jest długi kij.
 
 ---
