@@ -6,15 +6,19 @@ Barbarzyńca charakteryzuje się dużą siłą, wysoką wytrzymałość i niską
 ---
 
 ### Złodziej
-Jest szybki i inteligentny, ale słaby. 
+Jest szybki i inteligentny, ale słaby. Zaczyna grę z czarem kradzieży, a jego bronią jest sztylet.
 
 ---
 
 ### Czarodziej
+Jest najinteligentniejszy, ale jest powolny i słaby. Zaczyna grę z magiczną różdżką i czarem zamieci.
 
 ---
 
 ### Rycerz
+
+
+Jest umiarkowanie silny, inteligentny i wytrzymaly. Zaczyna grę z czarem szarży i mieczem oburęcznym.
 
 ---
 
